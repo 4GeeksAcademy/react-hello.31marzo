@@ -15,7 +15,7 @@ const Home = () => {
 		   
 		   <Jumbotron/>
 
-		   <div className="d-flex">
+		   <div className="cards-container">
 		   <Card/>
 		   <Card/>
 		   <Card/>

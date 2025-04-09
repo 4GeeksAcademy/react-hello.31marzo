@@ -7,13 +7,18 @@ import React from "react";
          <div className="container text-center">
              
             <h1>Card</h1>
-            <div className="card" style={{width: "18rem"}}>
+            <div className="row justify-content-center"> 
+            <div className="col-12 col-sm-10 col-md-8 col-lg-6 col-xl-4"> 
+            <div className="card">
               <img src="..." className="card-img-top" alt="..."/>
               <div className="card-body">
                <h5 className="card-title">Card title</h5>
-               <p className="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non, quasi adipisci? Reiciendis tempora perspiciatis, aliquid maxime repellendus repellat, quasi labore ab exercitationem eligendi sint, voluptas itaque in provident explicabo! Eveniet.</p>
+               <p className="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
                <a href="#" className="btn btn-primary">Go somewhere</a>
                </div>
+                 </div>
+
+            </div>
              </div>
          </div>
      );

@@ -10,7 +10,7 @@ import React from "react";
             <div className="row justify-content-center"> 
             <div className="col-12 col-sm-10 col-md-8 col-lg-6 col-xl-4"> 
             <div className="card">
-              <img src="..." className="card-img-top" alt="..."/>
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDCIaJbaB3RwoFDJEkFZ0ae0jdJ7zRf303w&s" className="card-img-top" alt="..."/>
               <div className="card-body">
                <h5 className="card-title">Card title</h5>
                <p className="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>

@@ -5,7 +5,7 @@ import React from "react";
  const Jumbotron = () => {
      return (
          <>
-              <div className="jumbotron">
+              <div className="jumbotron container">
         
               <div className="card-body">
                 <h1 className="card-title">A Warn Welcome!</h1>
